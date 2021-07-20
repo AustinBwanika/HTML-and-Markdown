@@ -1,0 +1,14 @@
+name: A workflow to turn a Github Page into a PDF 
+on: 
+  page_build 
+  
+jobs: 
+  build: 
+    name: Create PDF 
+    runs-on: ubuntu-latest 
+    steps: 
+      - uses: mkrakowitzer/actions-makepdfs@v1.3 
+      - uses: action/checkout@v1 
+        with:
+          markdown_dir: main 
+          output_dir: main
