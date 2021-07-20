@@ -4,7 +4,11 @@ on:
   
 jobs: 
   build: 
-    name: PDF conversion 
+    name: Create PDF 
     runs-on: ubuntu-latest 
     steps: 
-      - uses: 
+      - uses: mkrakowitzer/actions-makepdfs@v1.3 
+      - uses: action/checkout@v1 
+        with:
+          markdown_dir: main 
+          output_dir: main
