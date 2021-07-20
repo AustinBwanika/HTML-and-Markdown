@@ -4,11 +4,11 @@ on:
   
 jobs: 
   build: 
-    name: Create PDF 
+    name: Markdown to PDF
     runs-on: ubuntu-latest 
     steps: 
-      - uses: mkrakowitzer/actions-makepdfs@v1.3 
-      - uses: mkrakowitzer/actions-makepdfs@07f1b3912a5dbcd72fe0feed3a3047a17c976d5e
-        with:
-          markdown_dir: main 
-          output_dir: main
+      - uses: valtyr/pandoc-action@cff3b6abcee213e0512955bdf82e63994c64f350
+      - uses: valtyr/pandoc-action@v0.1-alpha
+        
+          
+         
