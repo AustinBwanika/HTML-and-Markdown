@@ -4,10 +4,9 @@ on:
   
 jobs: 
   build: 
-      name: Github Actions 
+      name: Markdown to HTML
       runs-on: ubuntu-latest
       steps: 
-           - name: Markdown to HTML
            - uses: lifepal/markdown-to-html@v1.2
              with:
                 text: main
