@@ -1,8 +1,6 @@
 name: A workflow to show Github Actions 
 on: 
-  page_build:
-      branches:
-      - main  
+  page_build
   
 jobs: 
   build: 
