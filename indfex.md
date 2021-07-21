@@ -10,9 +10,8 @@ layout: default
 
 <br>
 
-{% include 03-tables.md %}
+{% include 03-text.md %}
 
 <br>
 
-{% include 04-text.md %}
 
