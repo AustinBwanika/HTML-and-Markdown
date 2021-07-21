@@ -6,16 +6,13 @@ layout: default
 
 <br>
 
-{% include 02-image.md %}
+{% include 02-Image.md %}
 
 <br>
 
-{% include 03-links.md %}
+{% include 03-tables.md %}
 
 <br>
 
-{% include 04-lists.md %}
+{% include 04-text.md %}
 
-<br>
-
-{% include 05-emphasis.md %}
