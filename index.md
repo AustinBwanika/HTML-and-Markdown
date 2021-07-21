@@ -2,6 +2,6 @@
 layout: default 
 --- 
 
-{% _includes 01-image.md %} 
+{% includes 01-image.md %} 
 
 <br>
