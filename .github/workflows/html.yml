@@ -1,13 +1,13 @@
 name: A workflow to show Github Actions 
-	on: 
-	  page_build
+on: 
+    page_build
 	  
 	jobs: 
 	  build: 
-	      name: Markdown to HTML
-	      runs-on: ubuntu-latest
-	      steps: 
-	           - uses: lifepal/markdown-to-html@v1.2 
-	           - uses: lifepal/markdown-to-html@253bbd85fbdeafe2d1f18c1b9289be24e5cf8f8f 
-	             with:
-	                text: main
+	  	name: Markdown to HTML
+	      	      runs-on: ubuntu-latest
+	          steps: 
+	             - uses: lifepal/markdown-to-html@v1.2 
+	             - uses: lifepal/markdown-to-html@253bbd85fbdeafe2d1f18c1b9289be24e5cf8f8f 
+	               with:
+	                   text: main
