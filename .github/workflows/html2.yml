@@ -2,8 +2,8 @@ name: "A workflow to turn a markdown page into HTML"
 on: 
   page_build 
   
-    jobs: 
-      build: 
+jobs: 
+    build: 
            name: Markdown to HTML 
            runs-on: ubuntu-latest 
            steps: 
