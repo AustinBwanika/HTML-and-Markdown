@@ -1,5 +1,5 @@
 
-layout: default 
+Austin's Page 
 --- 
 
 {% include image.md %} 
