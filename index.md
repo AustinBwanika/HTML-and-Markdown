@@ -2,20 +2,20 @@
 Austin's Page 
 --- 
 
-{% image.md %} 
+{% main image.md %} 
 
 <br> 
 
-{% include links.md %} 
+{% main links.md %} 
 
 <br> 
 
-{% include lists.md %} 
+{% main lists.md %} 
 
 <br> 
 
-{% include table.md %} 
+{% main table.md %} 
 
 <br> 
 
-{% include text.md %}
+{% main text.md %}
