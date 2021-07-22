@@ -2,7 +2,7 @@
 Austin's Page 
 --- 
 
-{% include image.md %} 
+{% image.md %} 
 
 <br> 
 
