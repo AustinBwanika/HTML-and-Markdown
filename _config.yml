@@ -17,3 +17,5 @@ include:
   - lists.md 
   - table.md 
   - text.md 
+
+theme: jekyll-theme-cayman
