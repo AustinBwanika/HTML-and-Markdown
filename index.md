@@ -1,5 +1,2 @@
-<br>
-{% raw %} {{% (root) text.md %}} {% endraw %}
-
-</br>
+![image](https://austinbwanika.github.io/user-manual/image.md)
 
