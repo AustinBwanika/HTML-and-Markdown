@@ -1,4 +1,4 @@
-{% (root) Phone.md /%} %}
+{% (root) Phone.md %}
 
 <br>
 
@@ -15,3 +15,5 @@
 <br>
 
 {% (root) table.md %}
+
+  %}
