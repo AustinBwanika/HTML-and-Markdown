@@ -1,2 +1,2 @@
-![image](https://austinbwanika.github.io/user-manual/image.md)
+[image](https://austinbwanika.github.io/user-manual/image.md)
 
