@@ -1,4 +1,4 @@
-{%(root)text.md %}}
+{% raw %} {{%(root)text.md %}} {% endraw %}
 
 <br>
 
