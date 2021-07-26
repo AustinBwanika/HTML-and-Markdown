@@ -1,4 +1,4 @@
-{% (root) text.md %}
+{%(root)text.md %}}
 
 <br>
 
