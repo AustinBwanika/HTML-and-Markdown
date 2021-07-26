@@ -14,5 +14,5 @@
 
 <br>
 
-{{%(root) table.md %}}
+{{% (root) table.md %}}
 
