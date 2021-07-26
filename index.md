@@ -1,17 +1,17 @@
-{ % (root) Phone.md %}
+{% (root) Phone.md %}
 
 
 
-{ % (root) Image.md %}
+{% (root) Image.md %}
 
 
 
-{ % (root) Links.md %}
+{% (root) Links.md %}
 
 
 
-{ % (root) Lists.md %}
+{% (root) Lists.md %}
 
 
 
-{ % (root) table.md %}
+{% (root) table.md %}
