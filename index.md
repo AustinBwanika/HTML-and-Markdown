@@ -1,7 +1,7 @@
-#Welcome to my Page ! 
+Welcome to my Page ! 
 ======
 
-######This page was created by Austin B 
+###### This page was created by Austin B 
 
 This page was created to help show the skills I learnt during my Internship to show the different aspects of my life through the use 
 of different links to the files that i made 
