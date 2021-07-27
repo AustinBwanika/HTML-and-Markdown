@@ -1,9 +1,9 @@
-[image](https://austinbwanika.github.io/user-manual/image.md)
+[image](image.md)
 
-[links](https://austinbwanika.github.io/user-manual/links.md) 
+[links](links.md) 
 
-[text](https://austinbwanika.github.io/user-manual/text.md)
+[text](text.md)
 
-[table](https://austinbwanika.github.io/user-manual/table.md)
+[table](table.md)
 
-[lists](https://austinbwanika.github.io/user-manual/lists.md)
+[lists](lists.md)
